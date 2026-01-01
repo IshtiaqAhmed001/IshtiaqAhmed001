@@ -26,9 +26,10 @@ Learning and improving through hands-on projects.
 <h3>📌 Currently</h3>
 
 <ul>
-  <li>Building React-based web applications</li>
-  <li>Improving frontend skills and UI practices</li>
-  <li>Strengthening full-stack fundamentals with MERN</li>
+  <li>💻 Building responsive, user-friendly React applications</li>
+  <li>🚀 Improving frontend skills and UI practices with Tailwind & DaisyUI</li>
+  <li>🌱 Strengthening full-stack fundamentals with MERN & Firebase</li>
+  <li>🎯 Looking to grow in a professional web development role</li>
 </ul>
 
 ---
