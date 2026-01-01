@@ -33,13 +33,6 @@ Learning and improving through hands-on projects.
 
 ---
 
-<h3>📊 GitHub Stats</h3>
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=IshtiaqAhmed001&show_icons=true&theme=default" />
-</p>
-
----
 
 <h3>🤝 Connect with me</h3>
 
